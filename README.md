@@ -8,9 +8,11 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre más de 420
 ## Power BI Executive Dashboard
 *Herramienta interactiva para la detección de desviaciones diarias y análisis de cross-selling.*
 
-<div align="center">
-  <video src="./dashboard/dashboard.mp4" width="100%" controls autoplay loop></video>
-</div>
+
+
+https://github.com/user-attachments/assets/9b78272b-8221-4789-b7da-b9e3bf24767e
+
+
 
 *(Si el video no se reproduce automáticamente, [haz clic aquí para verlo](./dashboard/dashboard.mp4))*
 
